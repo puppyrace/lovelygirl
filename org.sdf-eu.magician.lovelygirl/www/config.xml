@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.hello-world" version="1.0.10" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Monsieur Robert Garcia</name>
+<widget id="com.phonegap.hello-world" version="1.0.15" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Monsieur Robert Garcia HAHA</name>
     <description>
-        Robert Garcia Rocks
+        Robert Garcia Rocks and drives a Ferrari
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
